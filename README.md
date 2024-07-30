@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Saffarini</h1>
 <h3 align="center">A passionate software developer from Jordan</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 💫 About Me:
-🔭 I’m currently working on **my personal website**<br>
-🌱 I’m currently learning **Django & Cloud computing with AWS**<br>
-🤝 I’m looking for help with expanding **[UnityHelp](https://github.com/IbrahimSaffarini/UnityHelp)**<br>
-💬 Ask me about **Dart, Flutter SDK, Unity, C#, and Python**<br>
-📫 How to reach me **Ibrahimsaffarini2001@gmail.com**
-
-<br clear="both">
+🔭 I’m currently working on **my personal website**<br><br>
+🌱 I’m currently learning **Django & Cloud computing with AWS**<br><br>
+🤝 I’m looking for help with expanding **[UnityHelp](https://github.com/IbrahimSaffarini/UnityHelp)**<br><br>
+💬 Ask me about **Dart, Flutter SDK, Unity, C#, and Python**
 
 ## 🌐 Reach Me At:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Isaff)
