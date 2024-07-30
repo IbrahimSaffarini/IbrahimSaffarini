@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Saffarini</h1>
 <h3 align="center">A passionate software developer from Jordan</h3>
 
-<img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 [![](https://visitcount.itsvg.in/api?id=IbrahimSaffarini&icon=5&color=1)](https://visitcount.itsvg.in)
