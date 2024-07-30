@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Saffarini</h1>
 <h3 align="center">A passionate software developer from Jordan</h3>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-[![](https://visitcount.itsvg.in/api?id=IbrahimSaffarini&icon=5&color=1)](https://visitcount.itsvg.in)
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 💫 About Me:
-🔭 I’m currently working on **my personal website**<br><br>
-🌱 I’m currently learning **Django & Cloud computing with AWS**<br><br>
-🤝 I’m looking for help with expanding **[UnityHelp](https://github.com/IbrahimSaffarini/UnityHelp)**<br><br>
-💬 Ask me about **Dart**, **Flutter SDK, Unity, C#, and Python**
+🔭 I’m currently working on **my personal website**<br>
+🌱 I’m currently learning **Django & Cloud computing with AWS**<br>
+🤝 I’m looking for help with expanding **[UnityHelp](https://github.com/IbrahimSaffarini/UnityHelp)**<br>
+💬 Ask me about **Dart, Flutter SDK, Unity, C#, and Python**<br>
+📫 How to reach me **Ibrahimsaffarini2001@gmail.com**
+
+<br clear="both">
 
 ## 🌐 Reach Me At:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Isaff)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Ibrahimsaffarini2001@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_sa8r) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/saitamasensei7882)
+
 
 ## Technical Skills:
 ### 📱 Mobile App Development
