@@ -75,7 +75,6 @@
 ![NI Multisim & Ultiboard](https://img.shields.io/badge/NI%20Multisim%20&%20Ultiboard-0076C0?style=for-the-badge&logo=ni&logoColor=white)
 ![Advanced Design System (ADS)](https://img.shields.io/badge/Advanced%20Design%20System%20(ADS)-0076C0?style=for-the-badge&logo=keysight&logoColor=white)
 ![Quartus II Simulator](https://img.shields.io/badge/Quartus%20II%20Simulator-007ACC?style=for-the-badge&logo=intel&logoColor=white)
-![OrCAD PSpice](https://img.shields.io/badge/OrCAD%20PSpice-007ACC?style=for-the-badge&logo=or-cad&logoColor=white)
 
 ### 🗂️ Version Control System
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
