@@ -1,3 +1,4 @@
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/IbrahimSaffarini)
 <h1 align="center">Hi 👋, I'm Ibrahim Saffarini</h1>
 <h3 align="center">A passionate software developer from Jordan</h3>
 
@@ -19,13 +20,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_sa8r) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/saitamasensei7882)
 
-
-
-
-
-
-
-<h1>Technical Skills:</h1>
+## Technical Skills:
 
 ### 📱 Mobile App Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -96,5 +91,3 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
