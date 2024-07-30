@@ -3,20 +3,40 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 💫 About Me:
-🔭 I’m currently working on **my personal website**<br><br>
-🌱 I’m currently learning **Django & Cloud computing with AWS**<br><br>
-🤝 I’m looking for help with expanding **[UnityHelp](https://github.com/IbrahimSaffarini/UnityHelp)**<br><br>
-💬 Ask me about **Dart, Flutter SDK, Unity, C#, and Python**
+[![](https://visitcount.itsvg.in/api?id=IbrahimSaffarini&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Reach Me At:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Isaff)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Ibrahimsaffarini2001@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_sa8r) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/saitamasensei7882)
+- 🔭 I’m currently working on **my personal website**
+
+- 🌱 I’m currently learning **Django & Cloud computing with AWS**
+  
+- 🤝 I’m looking for help with expanding **[UnityHelp](https://github.com/IbrahimSaffarini/UnityHelp)**
+  
+- 💬 Ask me about **Dart, Flutter SDK, Unity, C#, and Python**
+
+- 🌐 Connect with me:
+  <div style="display: inline;">
+    <a href="https://linkedin.com/in/Isaff">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:Ibrahimsaffarini2001@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://instagram.com/i_sa8r">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://discord.com/users/saitamasensei7882">
+      <img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white" alt="Discord">
+    </a>
+  </div>
 
 
-## Technical Skills:
+
+
+
+
+
+<h1>Technical Skills:</h1>
+
 ### 📱 Mobile App Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -87,6 +107,4 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=IbrahimSaffarini&icon=0&color=0)](https://visitcount.itsvg.in)
 
