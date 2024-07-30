@@ -13,21 +13,11 @@
   
 - 💬 Ask me about **Dart, Flutter SDK, Unity, C#, and Python**
 
-- 🌐 Connect with me:
-  <div style="display: inline;">
-    <a href="https://linkedin.com/in/Isaff">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:Ibrahimsaffarini2001@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://instagram.com/i_sa8r">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://discord.com/users/saitamasensei7882">
-      <img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white" alt="Discord">
-    </a>
-  </div>
+### 🌐 Connect with me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Isaff)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Ibrahimsaffarini2001@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_sa8r) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/saitamasensei7882)
 
 
 
