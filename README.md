@@ -44,10 +44,24 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 🏭 Industrial Automation
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-FF7F50?style=for-the-badge&logo=siemens&logoColor=white)
+![Siemens Step 7](https://img.shields.io/badge/Siemens%20Step%207-003399?style=for-the-badge&logo=siemens&logoColor=white)
+![NI LabView](https://img.shields.io/badge/NI%20LabView-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
+
+### 🔧 Embedded Systems
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Proteus 8 Professional](https://img.shields.io/badge/Proteus%208%20Professional-003366?style=for-the-badge&logo=proteus&logoColor=white)
+
 ### 🖥️ Web Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗂️ Version Control System
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🖥️ Desktop App Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -60,25 +74,11 @@
 ![Spyder](https://img.shields.io/badge/Spyder%20IDE-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### 🏭 Industrial Automation
-![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-FF7F50?style=for-the-badge&logo=siemens&logoColor=white)
-![Siemens Step 7](https://img.shields.io/badge/Siemens%20Step%207-003399?style=for-the-badge&logo=siemens&logoColor=white)
-![NI LabView](https://img.shields.io/badge/NI%20LabView-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
-
-### 🔧 Embedded Systems
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Proteus 8 Professional](https://img.shields.io/badge/Proteus%208%20Professional-003366?style=for-the-badge&logo=proteus&logoColor=white)
-
 ### 💻 Hardware Design
 ![Verilog](https://img.shields.io/badge/Verilog-00979D?style=for-the-badge&logo=verilog&logoColor=white)
 ![NI Multisim & Ultiboard](https://img.shields.io/badge/NI%20Multisim%20&%20Ultiboard-0076C0?style=for-the-badge&logo=ni&logoColor=white)
 ![Advanced Design System (ADS)](https://img.shields.io/badge/Advanced%20Design%20System%20(ADS)-FF4500?style=for-the-badge&logo=keysight&logoColor=white)
 ![Quartus II Simulator](https://img.shields.io/badge/Quartus%20II%20Simulator-00008B?style=for-the-badge&logo=intel&logoColor=white)
-
-### 🗂️ Version Control System
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌐 Networking & 📞 Communication
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
